@@ -1,0 +1,3 @@
+import cowsay
+cowsay.dragon('TERMUX20210')
+print('hi termux')
